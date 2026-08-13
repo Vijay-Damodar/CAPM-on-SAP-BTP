@@ -1,0 +1,26 @@
+GET http://localhost:4004/odata/v4/books-srv/BooksSet
+
+###
+GET http://localhost:4004/odata/v4/books-srv/BooksSet(b2c3d4e5-f6a7-4890-9234-bcdef1234567)
+
+###
+POST http://localhost:4004/odata/v4/books-srv/BooksSet
+Content-Type: application/json
+
+{
+    "title":"VIjaay","author":null,"price":-1,"publishedDate":null,"digitalCopy":null
+}
+
+###
+PUT http://localhost:4004/odata/v4/books-srv/BooksSet(b2c3d4e5-f6a7-4890-9234-bcdef1234567)
+Content-Type: application/json
+
+{
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "price": 50,
+      "digitalCopy": true
+    }
+
+###
+DELETE http://localhost:4004/odata/v4/books-srv/BooksSet(b2c3d4e5-f6a7-4890-9234-bcdef1234567)

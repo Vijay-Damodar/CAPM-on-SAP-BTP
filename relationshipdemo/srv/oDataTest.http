@@ -1,0 +1,39 @@
+GET http://localhost:4004/odata/v4/relsrv/SalesOrderHeaderSet
+
+###
+GET http://localhost:4004/odata/v4/relsrv/SalesOrderHeaderSet(11111111-1111-1111-1111-111111111111)/items_details_comp
+###
+GET http://localhost:4004/odata/v4/relsrv/SalesOrderItemSet
+
+###
+POST http://localhost:4004/odata/v4/relsrv/SalesOrderHeaderSet
+Content-Type : application/json
+
+{
+    "description": "My New Order",
+    "items_details_comp" : [
+        {
+        "product": "Bottle",
+        "quantity": 2
+        },
+        {
+        "product": "Table",
+        "quantity": 5
+        }
+  ]
+}
+
+###
+DELETE http://localhost:4004/odata/v4/relsrv/SalesOrderHeaderSet(f49d0d65-c28d-41bb-9093-16a05f2f1aac)
+
+### 
+GET http://localhost:4004/odata/v4/relsrv
+
+### Association Test
+GET http://localhost:4004/odata/v4/relsrv/HeaderSet
+
+###
+GET http://localhost:4004/odata/v4/relsrv/ItemSet
+
+###
+DELETE http://localhost:4004/odata/v4/relsrv/HeaderSet(11111111-1111-1111-1111-111111111111)

@@ -1,0 +1,6 @@
+ID,title,author,price,publishedDate,digitalCopy
+a1b2c3d4-e5f6-4789-8123-abcdef123456,Clean Code,Robert C. Martin,45.99,2023-01-15T10:00:00Z,true
+b2c3d4e5-f6a7-4890-9234-bcdef1234567,The Pragmatic Programmer,Andrew Hunt,39.50,2022-06-20T14:30:00Z,true
+c3d4e5f6-a7b8-4901-8345-cdef12345678,Design Patterns,Erich Gamma,55.75,2021-09-10T09:15:00Z,false
+d4e5f6a7-b8c9-4012-9456-def123456789,Refactoring,Martin Fowler,49.95,2024-03-05T16:45:00Z,true
+e5f6a7b8-c9d0-4123-a567-ef1234567890,Domain-Driven Design,Eric Evans,62.00,2020-11-25T11:20:00Z,false
