@@ -1,0 +1,5 @@
+ID,title,author,price,publishedDate,gender,ageGroup
+550e8400-e29b-41d4-a716-446655440000,The Lost Kingdom,John Smith,499.99,2024-01-15T10:00:00Z,Male,Adult
+550e8400-e29b-41d4-a716-446655440001,Magic Forest,Sarah Johnson,299.50,2023-05-20T09:30:00Z,Female,Children
+550e8400-e29b-41d4-a716-446655440002,Science Basics,David Brown,399.00,2022-09-10T14:15:00Z,Male,Teen
+550e8400-e29b-41d4-a716-446655440003,History of Time,Emily Davis,599.75,2021-11-01T08:00:00Z,Female,Adult
