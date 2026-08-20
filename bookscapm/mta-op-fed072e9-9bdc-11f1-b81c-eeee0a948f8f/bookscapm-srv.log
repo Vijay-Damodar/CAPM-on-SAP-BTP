@@ -1,0 +1,166 @@
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:48:29.617086] Updated app with guid e4fbc9e0-0224-4a88-a46f-eef717330b07 ({"lifecycle"=>{"data"=>{"buildpacks"=>["nodejs_buildpack"]}, "type"=>"buildpack"}}) (STDOUT, API)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:48:29.706626] Updating process: "web" (STDOUT, API)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:05.014268] Uploading app package for app with guid e4fbc9e0-0224-4a88-a46f-eef717330b07 (STDOUT, API)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:05.201205] Updated app with guid e4fbc9e0-0224-4a88-a46f-eef717330b07 ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:15.279715] Creating build for app with guid e4fbc9e0-0224-4a88-a46f-eef717330b07 (STDOUT, API)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:15.725437] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:15.772019] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:15.772146] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance 6b970c29-85a6-4d44-8294-a12f301d2830 (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:16.671343] Security group rules were updated (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:16.834405] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance 6b970c29-85a6-4d44-8294-a12f301d2830 (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:17.167277] Downloading build artifacts cache... (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:17.167277] Downloading app package... (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:17.290081] Downloaded build artifacts cache (221B) (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:17.767515] Downloaded app package (4.3M) (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:17.903517] -----> Nodejs Buildpack version 1.9.2 (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:18.296489] -----> Bootstrapping python (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:18.296581] -----> Installing python 3.13.13 (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:18.296660] Copy [/tmp/buildpacks/17bd89c67d092631/dependencies/268a5e3743d51a14b86ea9da64439307/python_3.13.13_linux_x64_cflinuxfs4_8311abbf.tgz] (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:23.013935] -----> Installing binaries (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:23.014072] engines.node (package.json): >=20 (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:23.014092] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:23.014173] [31;1m**WARNING**[0m Dangerous semver range (>) in engines.node. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:23.014236] -----> Installing node 24.15.0 (STDOUT, STG)#
+#2026 08 19 14:49:24.991#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22171#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:23.014546] Copy [/tmp/buildpacks/17bd89c67d092631/dependencies/6441e97e6386f47ec4c16cfdf8db0a17/node_24.15.0_linux_x64_cflinuxfs4_1a62d98b.tgz] (STDOUT, STG)#
+#2026 08 19 14:49:35.040#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:25.780370] Using default npm version: 11.12.1 (STDOUT, STG)#
+#2026 08 19 14:49:35.040#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:25.780659] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 08 19 14:49:35.040#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:25.780991] Copy [/tmp/buildpacks/17bd89c67d092631/dependencies/e4fe26756e9984a665478d350474fa2e/yarn_1.22.22_linux_noarch_any-stack_b6132b86.tgz] (STDOUT, STG)#
+#2026 08 19 14:49:35.040#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:26.227235] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 08 19 14:49:35.040#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:26.227318] -----> Creating runtime environment (STDOUT, STG)#
+#2026 08 19 14:49:35.040#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:26.229842] NODE_ENV=production (STDOUT, STG)#
+#2026 08 19 14:49:35.040#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:26.229876] NODE_HOME=/tmp/contents2222720231/deps/0/node (STDOUT, STG)#
+#2026 08 19 14:49:35.040#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:26.229893] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 08 19 14:49:35.040#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:26.229965] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 08 19 14:49:35.040#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:26.230040] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 08 19 14:49:35.040#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:26.230203] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 08 19 14:49:35.041#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:26.230424] -----> Building dependencies (STDOUT, STG)#
+#2026 08 19 14:49:35.041#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:26.230629] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 08 19 14:49:35.041#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:26.230809] Rebuilding any native modules (STDOUT, STG)#
+#2026 08 19 14:49:35.041#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:27.070727] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 08 19 14:49:35.041#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:27.072638] npm notice (STDOUT, STG)#
+#2026 08 19 14:49:35.041#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:27.072675] npm notice New major version of npm available! 11.12.1 -> 12.0.2 (STDOUT, STG)#
+#2026 08 19 14:49:35.041#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:27.072697] npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.0.2 (STDOUT, STG)#
+#2026 08 19 14:49:35.041#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:27.072700] npm notice To update run: npm install -g npm@12.0.2 (STDOUT, STG)#
+#2026 08 19 14:49:35.041#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:27.072703] npm notice (STDOUT, STG)#
+#2026 08 19 14:49:35.041#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:27.145751] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 08 19 14:49:35.041#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:28.024911] up to date in 788ms (STDOUT, STG)#
+#2026 08 19 14:49:35.041#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:28.025115] 29 packages are looking for funding (STDOUT, STG)#
+#2026 08 19 14:49:35.041#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:28.025185] run `npm fund` for details (STDOUT, STG)#
+#2026 08 19 14:49:35.041#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22184#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:29.018055] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 08 19 14:49:45.073#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-19462#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:39.049804] Exit status 0 (STDOUT, STG)#
+#2026 08 19 14:49:45.073#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-19462#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:39.049871] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 08 19 14:49:45.073#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-19462#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:39.049930] Uploading droplet... (STDOUT, STG)#
+#2026 08 19 14:49:45.073#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-19462#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:39.049969] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 08 19 14:49:45.073#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-19462#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:39.070104] Uploaded build artifacts cache (224B) (STDOUT, STG)#
+#2026 08 19 14:49:45.073#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-19462#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:39.828732] Creating droplet for app with guid e4fbc9e0-0224-4a88-a46f-eef717330b07 (STDOUT, API)#
+#2026 08 19 14:49:45.073#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-19462#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:43.896743] Uploaded droplet (60M) (STDOUT, STG)#
+#2026 08 19 14:49:45.073#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-19462#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:43.920275] Uploading complete (STDOUT, STG)#
+#2026 08 19 14:49:45.073#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-19462#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:44.536130] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance 6b970c29-85a6-4d44-8294-a12f301d2830 (STDOUT, STG)#
+#2026 08 19 14:49:45.073#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-19462#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:44.536174] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance 6b970c29-85a6-4d44-8294-a12f301d2830 (STDOUT, STG)#
+#2026 08 19 14:49:45.073#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-19462#
+[PollStageAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:44.586877] Staging complete for build 6b970c29-85a6-4d44-8294-a12f301d2830 (STDOUT, API)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:45.144848] Updated app with guid e4fbc9e0-0224-4a88-a46f-eef717330b07 ({:droplet_guid=>"df4bc4f0-c7f8-42ea-a928-3c2e8c44907b"}) (STDOUT, API)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:45.443834] Creating revision for app with guid e4fbc9e0-0224-4a88-a46f-eef717330b07 (STDOUT, API)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:45.491345] Starting app with guid e4fbc9e0-0224-4a88-a46f-eef717330b07 (STDOUT, API)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:45.808164] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 creating container for instance 2c0c896b-ea49-4518-4e4c-9be9 (STDOUT, CELL)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:46.629259] Security group rules were updated (STDOUT, CELL)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:46.726838] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully created container for instance 2c0c896b-ea49-4518-4e4c-9be9 (STDOUT, CELL)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:47.034770] Downloading droplet... (STDOUT, CELL)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:47.380421] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance 6b970c29-85a6-4d44-8294-a12f301d2830 (STDOUT, STG)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:50.737683] Downloaded droplet (60M) (STDOUT, CELL)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:50.737914] Starting health monitoring of container (STDOUT, CELL)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:50.919394] Invoking pre-start scripts. (STDOUT, APP/PROC/WEB)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:51.168390] Invoking start command. (STDOUT, APP/PROC/WEB)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:51.754030] > bookscapm@1.0.0 start (STDOUT, APP/PROC/WEB)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:51.754063] > cds-serve (STDOUT, APP/PROC/WEB)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:52.061590] {"level":"info","logger":"cds","timestamp":"2026-08-19T14:49:52.059Z","layer":"cds","component_type":"application","container_id":"10.32.1.5","component_id":"e4fbc9e0-0224-4a88-a46f-eef717330b07","component_name":"bookscapm-srv","component_instance":0,"source_instance":0,"organization_name":"1fb9e48dtrial","organization_id":"8ca7719c-a1c5-4100-832b-9bfcd0e73c43","space_name":"dev","space_id":"5d8a2d66-1cdf-4f95-ae67-ef9fb5cde8d1","msg":"loaded model from 1 file(s):\n ","type":"log"} (STDOUT, APP/PROC/WEB)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:52.062456] srv/csn.json (STDOUT, APP/PROC/WEB)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:52.279400] {"level":"info","logger":"cds","timestamp":"2026-08-19T14:49:52.277Z","layer":"cds","component_type":"application","container_id":"10.32.1.5","component_id":"e4fbc9e0-0224-4a88-a46f-eef717330b07","component_name":"bookscapm-srv","component_instance":0,"source_instance":0,"organization_name":"1fb9e48dtrial","organization_id":"8ca7719c-a1c5-4100-832b-9bfcd0e73c43","space_name":"dev","space_id":"5d8a2d66-1cdf-4f95-ae67-ef9fb5cde8d1","msg":"connect to db > hana {\n  database_id: 'e76196d1-3d0e-4b63-a58c-bb3e1889cb4b',\n  host: 'e76196d1-3d0e-4b63-a58c-bb3e1889cb4b.hna0.prod-us10.hanacloud.ondemand.com',\n  port: '443',\n  driver: 'com.sap.db.jdbc.Driver',\n  url: 'jdbc:sap://e76196d1-3d0e-4b63-a58c-bb3e1889cb4b.hna0.prod-us10.hanacloud.ondemand.com:443?encrypt=true&validateCertificate=true&currentschema=A73E289B4D5D4307AA998E0AFB8BB7E9',\n  schema: 'A73E289B4D5D4307AA998E0AFB8BB7E9',\n  certificate: '...',\n  hdi_user: 'A73E289B4D5D4307AA998E0AFB8BB7E9_D64E135A32ZFHCC08ZN9BN39G_DT',\n  hdi_password: '...',\n  user: 'A73E289B4D5D4307AA998E0AFB8BB7E9_D64E135A32ZFHCC08ZN9BN39G_RT',\n  password: '...'\n}","type":"log"} (STDOUT, APP/PROC/WEB)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:52.314283] {"level":"info","logger":"cds","timestamp":"2026-08-19T14:49:52.313Z","layer":"cds","component_type":"application","container_id":"10.32.1.5","component_id":"e4fbc9e0-0224-4a88-a46f-eef717330b07","component_name":"bookscapm-srv","component_instance":0,"source_instance":0,"organization_name":"1fb9e48dtrial","organization_id":"8ca7719c-a1c5-4100-832b-9bfcd0e73c43","space_name":"dev","space_id":"5d8a2d66-1cdf-4f95-ae67-ef9fb5cde8d1","msg":"using auth strategy { kind: 'jwt' }","type":"log"} (STDOUT, APP/PROC/WEB)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:52.374818] {"level":"info","logger":"cds","timestamp":"2026-08-19T14:49:52.374Z","layer":"cds","component_type":"application","container_id":"10.32.1.5","component_id":"e4fbc9e0-0224-4a88-a46f-eef717330b07","component_name":"bookscapm-srv","component_instance":0,"source_instance":0,"organization_name":"1fb9e48dtrial","organization_id":"8ca7719c-a1c5-4100-832b-9bfcd0e73c43","space_name":"dev","space_id":"5d8a2d66-1cdf-4f95-ae67-ef9fb5cde8d1","msg":"serving BooksSrv {\n  at: [ '/odata/v4/books-srv' ],\n  decl: 'srv/csn.json:57',\n  impl: 'srv/booksdatamodel.js'\n}","type":"log"} (STDOUT, APP/PROC/WEB)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:52.381244] {"level":"info","logger":"cds","timestamp":"2026-08-19T14:49:52.380Z","layer":"cds","component_type":"application","container_id":"10.32.1.5","component_id":"e4fbc9e0-0224-4a88-a46f-eef717330b07","component_name":"bookscapm-srv","component_instance":0,"source_instance":0,"organization_name":"1fb9e48dtrial","organization_id":"8ca7719c-a1c5-4100-832b-9bfcd0e73c43","space_name":"dev","space_id":"5d8a2d66-1cdf-4f95-ae67-ef9fb5cde8d1","msg":"server listening on { url: 'http://localhost:8080' }","type":"log"} (STDOUT, APP/PROC/WEB)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:52.382793] {"level":"info","logger":"cds","timestamp":"2026-08-19T14:49:52.382Z","layer":"cds","component_type":"application","container_id":"10.32.1.5","component_id":"e4fbc9e0-0224-4a88-a46f-eef717330b07","component_name":"bookscapm-srv","component_instance":0,"source_instance":0,"organization_name":"1fb9e48dtrial","organization_id":"8ca7719c-a1c5-4100-832b-9bfcd0e73c43","space_name":"dev","space_id":"5d8a2d66-1cdf-4f95-ae67-ef9fb5cde8d1","msg":"server v9.9.3 launched in 615 ms","type":"log"} (STDOUT, APP/PROC/WEB)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:53.259780] Container became healthy (STDOUT, CELL)#
+#2026 08 19 14:49:55.175#Z#DEBUG#fed072e9-9bdc-11f1-b81c-eeee0a948f8f.bookscapm-srv#flowable-async-job-executor-thread-22842#
+[PollStartAppStatusExecution] e4fbc9e0-0224-4a88-a46f-eef717330b07 [2026-08-19T14:49:53.283604] Process became ready with guid e4fbc9e0-0224-4a88-a46f-eef717330b07 payload: {"instance"=>"2c0c896b-ea49-4518-4e4c-9be9", "index"=>0, "cell_id"=>"d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0", "ready"=>true, "version"=>"90ebd3d9-a98f-4be1-a346-7c3f84ed5096"} (STDOUT, API)#

@@ -2,13 +2,60 @@
   "name": "bookscapm",
   "version": "1.0.0",
   "dependencies": {
-    "@sap/cds": "^9"
+    "@cap-js/hana": "^2",
+    "@sap/cds": "^9",
+    "@sap/xssec": "^4.15.0"
   },
   "devDependencies": {
-    "@cap-js/sqlite": "^2.4"
+    "@cap-js/sqlite": "^2.4",
+    "@sap/cds-dk": "^9",
+    "cds-plugin-ui5": "^0.17.0",
+    "mbt": "^1.2.49",
+    "rimraf": "^5.0.5"
   },
   "scripts": {
-    "start": "cds-serve"
+    "start": "cds-serve",
+    "watch-bookscapmui": "cds watch --open bookscapmui/index.html?sap-ui-xx-viewCache=false --livereload false",
+    "undeploy": "cf undeploy bookscapm --delete-services --delete-service-keys --delete-service-brokers",
+    "build": "rimraf resources mta_archives && mbt build --mtar archive",
+    "deploy": "cf deploy mta_archives/archive.mtar --retries 1"
   },
-  "private": true
+  "private": true,
+  "cds": {
+    "requires": {
+      "auth": {
+        "[production]": {
+          "strategy": "JWT"
+        },
+        "[development]": {
+          "strategy": "mocked",
+          "users": {
+            "vijay": {
+              "password": "welcome1",
+              "roles": [
+                "Admin"
+              ]
+            },
+            "kid1": {
+              "password": "welcome2",
+              "roles": [
+                "Kids"
+              ],
+              "userAttributes": {
+                "booksAgeGroup": [
+                  "KIDS"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "workspaces": [
+    "app/*"
+  ],
+  "sapux": [
+    "app/bookscapmui"
+  ]
 }
